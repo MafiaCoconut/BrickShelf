@@ -1,0 +1,6 @@
+[submodule "backend/brickshelf-core"]
+	path = backend/brickshelf-core
+	url = git@coconut:MafiaCoconut/brickshelf-core.git
+[submodule "backend/brickshelf-collection"]
+	path = backend/brickshelf-collection
+	url = git@coconut:MafiaCoconut/brickshelf-collection.git
